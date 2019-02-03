@@ -1,5 +1,5 @@
-# mindmaps
-misc informational, exploring, self-destructive vice versa mindmaps
+# mindnotebooks
+misc informational, exploring, self-destructive etc  dynamic mindnoteboks
 
 fields:
 
